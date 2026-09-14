@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "provider": "hdlbits",
+  "problemId": "step_one",
+  "attemptId": "a9ff12fc-8e6d-478b-8489-c829962061d4",
+  "sourceHash": "d7a61ecf06eb60215f80f0bca09305d9aa8d5c42dbdf06913f7527e4c9f7abe9",
+  "submittedAt": "2026-09-14T08:41:47.535Z",
+  "observedAt": "2026-09-14T08:41:57.839Z",
+  "provenance": {
+    "capture": "browser-post",
+    "verdict": "success"
+  }
+}
